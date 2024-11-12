@@ -1,0 +1,7 @@
+# This is the main configuration file for VillagerMoveIn.
+settings:
+  debug: false
+  villager-spawn-percentage: 0.7
+messages:
+  village-discover: <playerName> found a <villagerType> village.
+  wanderer-spawn: A wandering trader spawned nearby <playerName>. A <villagerType> villager followed him.

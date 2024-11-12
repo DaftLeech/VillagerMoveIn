@@ -1,0 +1,4 @@
+name: VillagerMoveIn
+version: '1.0'
+main: de.daftleech.villagerMoveIn.VillagerMoveIn
+api-version: '1.21'
